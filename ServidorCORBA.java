@@ -1,6 +1,3 @@
-//Compilar arquivos normalmente javac *.java CalculadoraApp/*.java
-//Executar o daemon do serviço de nomes "orbd -ORBInitialPort 1050"
-//Rodar o servidor "java ServidorCORBA -ORBInitialPort 1050 -ORBInitialHost localhost"
 import CalculadoraApp.*;
 
 import org.omg.CORBA.*;

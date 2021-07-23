@@ -1,4 +1,3 @@
-//Rodar o cliente "java ClienteCORBA -ORBInitialPort 1050 -ORBInitialHost localhost"
 import CalculadoraApp.*;
 import org.omg.CORBA.*;
 import org.omg.CosNaming.*;
